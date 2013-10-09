@@ -1,0 +1,42 @@
+/* DUMMY DATA only to start -- toying with UrbanEdibles */
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.620105,
+                    45.53374
+                ]
+            },
+            "properties": {
+                "name": "Blackberry",
+                "address": "Blackberry near NE 42nd and Halsey",
+                "permission": "The status of this source is unknown. Ask before you pick!",
+                "submitter": "anonymous",
+                "date": "9/12/2006",
+                "comment": "Parking lot of Hollywood Bowl, The bushes are on the SW side of the parking lot....they face the max and I-84. There are TONS there."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8356164,
+                    45.655985
+                ]
+            },
+            "properties": {
+                "name": "Blackberry",
+                "address": "Blackberry near Sauvie Island",
+                "permission": "The status of this source is unknown. Ask before you pick!",
+                "submitter": "anonymous",
+                "date": "9/12/2006",
+                "comment": "Massive amounts in various spots all along the roadside...There is a parking/picnic area about 2 miles up from the entrance with house boats and stuff that has \"hella\" blackberry bushes."
+            }
+        },
+    ]
+}
