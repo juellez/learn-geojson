@@ -36,6 +36,60 @@
                 "date": "9/12/2006",
                 "comment": "Massive amounts in various spots all along the roadside...There is a parking/picnic area about 2 miles up from the entrance with house boats and stuff that has \"hella\" blackberry bushes."
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.582834,
+                    45.480941
+                ]
+            },
+            "properties": {
+                "name": "Quince Tree",
+                "address": "Quince Tree near 7834 SE Ramona St",
+                "permission": "Special (see comments)",
+                "submitter": "anonymous",
+                "date": "09/28/08",
+                "comment": "This is a source on an empty lot."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.641416,
+                    45.525009
+                ]
+            },
+            "properties": {
+                "name": "Quince Tree",
+                "address": "Quince Tree near NE 24th and Everett St",
+                "permission": "The status of this source is unknown. Ask before you pick!",
+                "submitter": "u-forage-yeah",
+                "date": "10/18/07",
+                "comment": "between 22nd and 24th on NE Everett St.\n\nThis tree in the parking strip bears loads of hard, bitter fruit, which should only be eaten when cooked until soft. Tarts, jellies and lamb stews are lovely. Quince begin ripening in October and are bright yellow/orange with no green tint when ripe. Ask the nice neighbors in the duplex first!"
+            }
+        }, 
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.641306,
+                    45.512022
+                ]
+            },
+            "properties": {
+                "name": "Walnut Tree",
+                "address": "Quince Tree near NE 24th and Everett St",
+                "permission": "The status of this source is unknown. Ask before you pick!",
+                "submitter": "inwe",
+                "date": "07/23/08",
+                "comment": "Walnut Tree near 1488 Se 24th</h4><p>Walnut tree in the parking strip. Possible quince nearby, but it\'s too early to tell. "
+            }
         }
     ]
 }
