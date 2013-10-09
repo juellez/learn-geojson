@@ -1,4 +1,3 @@
-/* DUMMY DATA only to start -- toying with UrbanEdibles */
 {
     "type": "FeatureCollection",
     "features": [
@@ -37,6 +36,6 @@
                 "date": "9/12/2006",
                 "comment": "Massive amounts in various spots all along the roadside...There is a parking/picnic area about 2 miles up from the entrance with house boats and stuff that has \"hella\" blackberry bushes."
             }
-        },
+        }
     ]
 }
